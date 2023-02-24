@@ -12,5 +12,9 @@
     "type": "git",
     "url": "git@github.com:MorphisWallet/prettier-config.git"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "main": ".prettierrc.cjs"
 }
